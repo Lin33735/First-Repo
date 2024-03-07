@@ -1,3 +1,7 @@
 Hello World
 
+This class is boring
+
+This is a new line
+
 What's Up
